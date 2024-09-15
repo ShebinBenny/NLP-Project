@@ -5,6 +5,7 @@ streamlit==1.25.0
 
 # Hugging Face Transformers for NLP models (e.g., BART for summarization)
 transformers==4.32.0
+huggingface-hub==0.24.7
 
 # Newspaper3k for web scraping and article extraction
 newspaper3k==0.2.8
