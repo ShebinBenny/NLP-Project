@@ -27,6 +27,7 @@ tqdm==4.65.0
 # Optional but useful libraries
 pandas==1.5.3       # For handling tabular data, if needed
 numpy>=1.19.0,<1.23.0  # For numerical computations (required by transformers and other libraries)
+lxml==4.7.1
 
 # You can also include this to ensure compatibility with pytorch or other dependencies
 protobuf==3.20.3
